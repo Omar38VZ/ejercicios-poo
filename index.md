@@ -18,7 +18,7 @@ Lee detenidamente la siguiente descripción de nuestro sistema:
 
 💡 **TIP:** Los **Sustantivos** suelen ser Clases/Atributos. Los **Verbos** suelen ser Métodos.
 
-### Entidad 1: `SOY OMAR`
+### Entidad 1: `SOY OMAR`2
 **Atributos (Acceso privado `-`):**
 * `- _________________ : ___________ ` *(identificador)*
 * `- _________________ : ___________ ` *(batería)*
